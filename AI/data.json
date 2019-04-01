@@ -1,0 +1,102 @@
+{
+  "color":
+  {
+    "light_white":
+    {
+      "root":
+      {
+        "curl_up":
+        {
+          "texture":
+          {
+            "distinct": 0.556,
+            "blur":
+            {
+              "touch":
+              {
+                "soft_stick": 0.34299999999999997,
+                "hard_smooth": 0.593
+              }
+            },
+            "little_blur": 0.593
+          }
+        },
+        "stiff": 0.245,
+        "little_curl_up": 0.657
+      }
+    },
+    "dark_green":
+    {
+      "root":
+      {
+        "curl_up":
+        {
+          "knocks":
+          {
+            "little_heavily": 0.6970000000000001,
+            "heavily":
+            {
+              "texture":
+              {
+                "little_blur": 0.7190000000000001,
+                "distinct": 0.608,
+                "blur": 0.7190000000000001
+              }
+            },
+            "clear": 0.7190000000000001
+          }
+        },
+        "stiff": 0.243,
+        "little_curl_up":
+        {
+          "texture":
+          {
+            "little_blur": 0.639,
+            "distinct": 0.40299999999999997,
+            "blur": 0.639
+          }
+        }
+      }
+    },
+    "black":
+    {
+      "root":
+      {
+        "curl_up":
+        {
+          "knocks":
+          {
+            "heavily": 0.774,
+            "little_heavily": 0.634,
+            "clear": 0.774
+          }
+        },
+        "little_curl_up":
+        {
+          "texture":
+          {
+            "little_blur":
+            {
+              "knocks":
+              {
+                "little_heavily": 0.48100000000000004,
+                "heavily": 0.6659999999999999,
+                "clear": 0.6659999999999999
+              }
+            },
+            "distinct":
+            {
+              "touch":
+              {
+                "soft_stick": 0.36,
+                "hard_smooth": 0.43700000000000006
+              }
+            },
+            "blur": 0.6659999999999999
+          }
+        },
+        "stiff": 0.774
+      }
+    }
+  }
+}
